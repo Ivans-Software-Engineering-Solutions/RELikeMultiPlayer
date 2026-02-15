@@ -9,7 +9,7 @@ public class RELikeMultiPlayerEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 
-		DefaultBuildSettings = BuildSettingsVersion.V5;
+		DefaultBuildSettings = BuildSettingsVersion.V6;
         IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
 
 		ExtraModuleNames.Add("RELikeMultiPlayer");

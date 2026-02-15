@@ -8,7 +8,7 @@ public class RELikeMultiPlayerTarget : TargetRules
 	public RELikeMultiPlayerTarget(TargetInfo Target) : base(Target)
 	{
         // Update to the latest build settings
-        DefaultBuildSettings = BuildSettingsVersion.V5;
+        DefaultBuildSettings = BuildSettingsVersion.V6;
 
         // Set the include order to the latest version
         IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
